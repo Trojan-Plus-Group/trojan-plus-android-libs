@@ -29,3 +29,11 @@
 *.exe
 *.out
 *.app
+
+# for boost and openssl compiling
+*.zip
+/android-ndk-*
+/openssl-*
+/Boost-for-Android*
+/output
+/build
